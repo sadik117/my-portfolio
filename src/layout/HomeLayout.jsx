@@ -28,14 +28,14 @@ const HomeLayout = () => {
 
         <h1 className="md:text-6xl text-4xl max-w-4xl px-4 mx-auto text-center font-bold flex flex-col items-center">
           Life doesn't get better by chance, it gets better by change.{" "}
-          <span className="text-xs md:text-sm pt-2">
+          <span className="text-xs md:text-sm pt-5">
             (Jim Rohn : American Author & Motivational Speaker)
           </span>
 
           {/* CTA Button */}
           <Link
             to="/home"
-            className="btn bg-transparent hover:text-pColor px-[2px] py-[2px] explore-btn rounded-full mt-20 md:mt-40 h-max min-h-max border-none hover:border-none"
+            className="btn bg-transparent hover:text-pColor px-[2px] py-[2px] explore-btn rounded-full mt-20 md:mt-35 h-max min-h-max border-none hover:border-none"
           >
             <motion.span
               animate={{ y: [0, -5, 0] }}

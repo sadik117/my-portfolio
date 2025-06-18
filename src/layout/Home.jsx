@@ -516,7 +516,7 @@ const Home = () => {
       {/* Contact section */}
       <section className="lg:pt-44 pt-10 lg:px-20  text-center">
         <h1 className="md:text-3xl text-xl font-bold mx-auto gradient-text py-5 md:py-10">
-          Contact With O Hesitation
+          Contact Me With O Hesitation
         </h1>
         <section className="flex lg:flex-row flex-col items-center gap-10 md:gap-20">
           <div className="lg:w-2/4 text-left">
