@@ -106,8 +106,8 @@ const NavBar = () => {
           </a>
             </ul>
           </div>
-          <Link to="/home" className="flex items-center text-sm md:text-xl font-bold">
-            <img className="md:w-14 w-9 md:-mr-3 -mr-2 -ml-4" src={logo} alt="" /> Sadik The
+          <Link to="/home" className="flex items-center text-sm md:text-xl font-bold gap-1">
+            <img className="md:w-7 w-5" src={logo} alt="" /> Sadik The
             Developer
           </Link>
         </div>

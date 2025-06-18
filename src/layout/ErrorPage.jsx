@@ -20,7 +20,7 @@ const ErrorPage = () => {
         className="btn bg-transparent px-[2px] duration-300 hover:text-pColor py-[2px] explore-btn w-max rounded-full  h-max min-h-max  border-none hover:border-none"
       >
         <span className="bg-primary flex items-center gap-1 border-t border-[#8636ff]/50 md:px-6 px-4 text-xs md:text-[14px] py-2 md:py-3 rounded-full relative ">
-          Go to Home
+           বাপী বাড়ি যা..
           <RiHome2Fill />
         </span>
       </Link>
