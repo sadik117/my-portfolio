@@ -174,7 +174,7 @@ const Home = () => {
       </div>
 
       {/* About section */}
-      <section className="lg:pt-44 pt-10 lg:px-20">
+      <section className="lg:pt-36 pt-8 lg:px-20">
         <h1 className="md:text-3xl text-xl font-bold mx-auto gradient-text py-5">
           About Me
         </h1>
@@ -220,7 +220,7 @@ const Home = () => {
       </section>
 
       {/* Skill section */}
-      <section className="lg:pt-44 pt-10 lg:px-20 text-center">
+      <section className="lg:pt-40 pt-10 lg:px-20 text-center">
         <h1 className="md:text-3xl text-xl font-bold mx-auto gradient-text py-2 md:py-5">
           Skills
         </h1>
@@ -351,7 +351,7 @@ const Home = () => {
       </section>
 
       {/* Education */}
-      <section className="lg:pt-44 pt-10 lg:px-20  text-center">
+      <section className="lg:pt-40 pt-10 lg:px-20  text-center">
         <h1 className="md:text-3xl text-xl  relative font-bold  gradient-text py-8">
          My Education Journey
           <div className="w-10 absolute h-1 md:h-2 bg-gradient-bg"></div>
@@ -499,7 +499,7 @@ const Home = () => {
       </section>
 
       {/* Projects section */}
-      <section className="lg:pt-44 pt-10  relative z-0 lg:px-20  text-center">
+      <section className="lg:pt-36 pt-9  relative z-0 lg:px-20  text-center">
         <h1 className="md:text-3xl text-xl  font-bold mx-auto gradient-text py-2 md:py-5">
           Projects
         </h1>
