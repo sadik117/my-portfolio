@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <div>
       <div className="">{snowFall && <Snowfall snowflakeCount={7} />}</div>
-      <div className="bg-gradient-to-r mt-40 md:mt-50 w-10/12 mx-auto from-primary via-pColor to-primary h-[1px]"></div>
+      <div className="bg-gradient-to-r mt-30 md:mt-32 w-10/12 mx-auto from-primary via-pColor to-primary h-[1px]"></div>
       <section className="w-10/12 bg-primary z-10 py-5 md:py-10 mx-auto flex-col flex items-center justify-between">
         <div className="flex items-center gap-2 font-bold">
           <Link
