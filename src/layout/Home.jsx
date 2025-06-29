@@ -174,7 +174,7 @@ const Home = () => {
       </div>
 
       {/* About section */}
-      <section className="lg:pt-32 pt-8 lg:px-20">
+      <section className="lg:pt-32 pt-10 lg:px-20">
         <h1 className="md:text-3xl text-xl font-bold mx-auto gradient-text py-5">
           About Me
         </h1>
@@ -351,7 +351,7 @@ const Home = () => {
       </section>
 
       {/* Education */}
-      <section className="lg:pt-32 pt-10 lg:px-20  text-center">
+      <section className="lg:pt-32 pt-10 lg:px-20 text-center">
         <h1 className="md:text-3xl text-xl  relative font-bold  gradient-text py-8">
          My Education Journey
           <div className="w-10 absolute h-1 md:h-2 bg-gradient-bg"></div>
@@ -499,14 +499,14 @@ const Home = () => {
       </section>
 
       {/* Projects section */}
-      <section className="lg:pt-32 pt-9  relative z-0 lg:px-20  text-center">
+      <section className="lg:pt-32 pt-10 relative z-0 lg:px-20 text-center">
         <h1 className="md:text-3xl text-xl  font-bold mx-auto gradient-text py-2 md:py-5">
           Projects
         </h1>
         <p className="lg:w-2/4 mx-auto text-xs md:text-sm">
           A curated showcase of my work that blends creativity with functionality—highlighting interactive designs, seamless development, and innovative solutions tailored to deliver impactful user experiences.
         </p>
-        <section className="grid md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-10 py-5 md:py-10 justify-items-center">
+        <section className="grid md:grid-cols-1 lg:grid-cols-2 gap-3 md:gap-10 py-5 md:py-10 justify-items-center">
           {projects.map((project) => (
             <ProjectCart key={project.id} project={project} />
           ))}
@@ -514,8 +514,8 @@ const Home = () => {
       </section>
 
       {/* Contact section */}
-      <section className="lg:pt-36 pt-10 lg:px-20  text-center">
-        <h1 className="md:text-3xl text-xl font-bold mx-auto gradient-text py-5 md:py-10">
+      <section className="lg:pt-28 pt-10 lg:px-20 text-center">
+        <h1 className="md:text-3xl text-xl font-bold mx-auto gradient-text py-6 md:py-12">
           Contact Me With O Hesitation
         </h1>
         <section className="flex lg:flex-row flex-col items-center gap-10 md:gap-20">
