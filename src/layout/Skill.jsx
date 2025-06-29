@@ -22,8 +22,8 @@ const Skill = () => {
       className="md:pt-20 pt-10 w-10/12 mx-auto text-center"
     >
       <Helmet>
-              <title>My Skills | Imran Developer</title>
-            </Helmet>
+        <title>My Skills | Developer Sadik</title>
+      </Helmet>
       <h1 className="text-2xl md:text-4xl font-bold">Skills That Define Me</h1>
       <p className="lg:w-2/5 mx-auto pt-1 text-xs md:text-sm">
         A showcase of my expertise and tools of the trade, reflecting my journey
@@ -53,103 +53,103 @@ const Skill = () => {
         </div>
       </div>
       <section className="mx-auto justify-items-center md:pt-10 gap-3 md:gap-16 lg:w-5/12 grid md:grid-cols-4 grid-cols-3">
-          <section>
-            <div
-              title="HTML"
-              className="text-[#E34F26] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#E34F26] to-[#e34f26]  skill rounded-2xl md:scale-100 scale-75"
-            >
-              <FaHtml5 className="bg-primary  relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#e34f26] pt-2">
-              HTML
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="Tailwind CSS"
-              className="text-[#38BDF8] p-[2px] w-20 h-20  before:bg-gradient-to-r from-[#38BDF8] to-[#38BDF8]  skill rounded-2xl  md:scale-100 scale-75"
-            >
-              <RiTailwindCssFill className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#38BDF8] pt-2">
-              Tailwind
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="JavaScript"
-              className="text-[#F7DF1E] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#F7DF1E] to-[#F7DF1E]  skill rounded-2xl  md:scale-100 scale-75"
-            >
-              <FaJs className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#F7DF1E] pt-2">
-              JavaScript
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="React"
-              className="text-[#61DAFB] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#61DAFB] to-[#61DAFB]  skill rounded-2xl  md:scale-100 scale-75"
-            >
-              <FaReact className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#61DAFB] pt-2">
-              React
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="Firebase"
-              className="text-[#FFA000] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#FFA000] to-[#FFA000]  skill rounded-2xl  md:scale-100 scale-75"
-            >
-              <BiLogoFirebase className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#FFA000] pt-2">
-              Firebase
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="Node JS"
-              className="text-[#339933] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#339933] to-[#339933]  skill rounded-2xl  md:scale-100 scale-75"
-            >
-              <FaNode className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#339933] pt-2">
-              Node JS
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="MongoDB"
-              className="text-[#47A248] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#47A248] to-[#47A248]  skill rounded-2xl  md:scale-100 scale-75"
-            >
-              <SiMongodb className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#47A248] pt-2">
-              MongoBD
-            </h2>
-          </section>
-
-          <section>
-            <div
-              title="GitHub"
-              className="text-[#F05033] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#F05033] to-[#F05033]  skill rounded-2xl   md:scale-100 scale-75"
-            >
-              <FaGitAlt className="bg-primary relative w-full rounded-2xl  h-full p-5" />
-            </div>
-            <h2 className="text-center text-sm md:text-base font-semibold text-[#F05033] pt-2">
-              Github
-            </h2>
-          </section>
+        <section>
+          <div
+            title="HTML"
+            className="text-[#E34F26] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#E34F26] to-[#e34f26]  skill rounded-2xl md:scale-100 scale-75"
+          >
+            <FaHtml5 className="bg-primary  relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#e34f26] pt-2">
+            HTML
+          </h2>
         </section>
+
+        <section>
+          <div
+            title="Tailwind CSS"
+            className="text-[#38BDF8] p-[2px] w-20 h-20  before:bg-gradient-to-r from-[#38BDF8] to-[#38BDF8]  skill rounded-2xl  md:scale-100 scale-75"
+          >
+            <RiTailwindCssFill className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#38BDF8] pt-2">
+            Tailwind
+          </h2>
+        </section>
+
+        <section>
+          <div
+            title="JavaScript"
+            className="text-[#F7DF1E] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#F7DF1E] to-[#F7DF1E]  skill rounded-2xl  md:scale-100 scale-75"
+          >
+            <FaJs className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#F7DF1E] pt-2">
+            JavaScript
+          </h2>
+        </section>
+
+        <section>
+          <div
+            title="React"
+            className="text-[#61DAFB] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#61DAFB] to-[#61DAFB]  skill rounded-2xl  md:scale-100 scale-75"
+          >
+            <FaReact className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#61DAFB] pt-2">
+            React
+          </h2>
+        </section>
+
+        <section>
+          <div
+            title="Firebase"
+            className="text-[#FFA000] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#FFA000] to-[#FFA000]  skill rounded-2xl  md:scale-100 scale-75"
+          >
+            <BiLogoFirebase className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#FFA000] pt-2">
+            Firebase
+          </h2>
+        </section>
+
+        <section>
+          <div
+            title="Node JS"
+            className="text-[#339933] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#339933] to-[#339933]  skill rounded-2xl  md:scale-100 scale-75"
+          >
+            <FaNode className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#339933] pt-2">
+            Node JS
+          </h2>
+        </section>
+
+        <section>
+          <div
+            title="MongoDB"
+            className="text-[#47A248] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#47A248] to-[#47A248]  skill rounded-2xl  md:scale-100 scale-75"
+          >
+            <SiMongodb className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#47A248] pt-2">
+            MongoBD
+          </h2>
+        </section>
+
+        <section>
+          <div
+            title="GitHub"
+            className="text-[#F05033] p-[2px] w-20 h-20 before:bg-gradient-to-r from-[#F05033] to-[#F05033]  skill rounded-2xl   md:scale-100 scale-75"
+          >
+            <FaGitAlt className="bg-primary relative w-full rounded-2xl  h-full p-5" />
+          </div>
+          <h2 className="text-center text-sm md:text-base font-semibold text-[#F05033] pt-2">
+            Github
+          </h2>
+        </section>
+      </section>
     </motion.div>
   );
 };

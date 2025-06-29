@@ -77,7 +77,7 @@ const Home = () => {
       className="w-10/12 mx-auto py-5 "
     >
       <Helmet>
-        <title>Home | Sadik The Developer</title>
+        <title>Home | Developer Sadik</title>
       </Helmet>
       <div className=" w-full bg-primary  bg-dot-gray-500/50  relative flex items-center justify-center">
         {/* Radial gradient for the container to give a faded look */}
