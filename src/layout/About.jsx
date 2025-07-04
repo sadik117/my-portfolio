@@ -25,7 +25,7 @@ const About = () => {
     <motion.div
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      className="w-10/12 mx-auto pt-10 md:pt-20"
+      className="w-10/12 mx-auto pt-10 md:pt-20 mb-4 md:mb-0"
     >
       <Helmet>
         <title>About Me | Developer Sadik</title>
